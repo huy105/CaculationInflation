@@ -1,0 +1,9 @@
+# ignore file txt
+*.ini
+*.ipynb
+# ignore file py
+/spark_caculate/test.py
+start_services.py
+# ignore folder
+__pycache__/
+raw_data/
